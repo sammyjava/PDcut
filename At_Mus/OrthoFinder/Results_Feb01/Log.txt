@@ -1,0 +1,12 @@
+2022-02-01 12:35:15 : Started OrthoFinder version 2.5.4
+Command Line: //home/shokin/bin/orthofinder.py -f At_Mus
+
+WorkingDirectory_Base: /home/shokin/PDcut/At_Mus/OrthoFinder/Results_Feb01/WorkingDirectory/
+
+Species used: 
+0: Arabidopsis_thaliana.TAIR10.pep.all.fa
+1: Mus_musculus-Cilia_proteome.faa
+
+FN_Orthogroups: /home/shokin/PDcut/At_Mus/OrthoFinder/Results_Feb01/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /home/shokin/PDcut/At_Mus/OrthoFinder/Results_Feb01/WorkingDirectory/
+2022-02-01 12:45:39 : OrthoFinder run completed
